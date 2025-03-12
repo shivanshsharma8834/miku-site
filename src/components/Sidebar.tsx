@@ -1,6 +1,6 @@
 export const Sidebar = () => {
     return (
-        <div className="w-[500px] h-screen sticky top-0 left-0 flex flex-col flex-1 ">
+        <div className="w-[300px] h-screen sticky top-0 left-0 flex flex-col ">
             {/* Links section */}
             <div className="flex-1 py-10 px-16">
                 <div>ABOUT</div>
